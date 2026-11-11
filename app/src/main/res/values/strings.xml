@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UDP Mock GPS</string>
+    <string name="channel_name">Mock GPS status</string>
+    <string name="action_stop">Stop</string>
+    <string name="notif_starting">Starting…</string>
+    <string name="notif_waiting">Waiting for data on UDP port %1$d</string>
+    <string name="notif_active">Injecting mock location · UDP %1$d · %2$s</string>
+    <string name="notif_lost">Signal lost – no valid fix for %1$d s</string>
+    <string name="hint_location_denied">Location permission is required to run a location foreground service. Grant it in the app settings and press Start again.</string>
+</resources>
